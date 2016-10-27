@@ -1,0 +1,35 @@
+{
+  "name": "end2endtestingkarmajasmine",
+  "version": "1.0.0",
+  "description": "end to end client testing with karma jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FakeCode/end2endtestingKarmaJasmine.git"
+  },
+  "keywords": [
+    "Karma",
+    "Jasmine",
+    "end2end",
+    "testing"
+  ],
+  "author": "umesh.services@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FakeCode/end2endtestingKarmaJasmine/issues"
+  },
+  "homepage": "https://github.com/FakeCode/end2endtestingKarmaJasmine#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-karma": "^2.0.0",
+    "jasmine": "^2.5.2",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
